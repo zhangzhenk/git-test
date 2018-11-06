@@ -8,5 +8,9 @@ public class Demo01 {
         System.out.println("AAAAAAAAAAAAAAAAA");
         System.out.println("AAAAAAAAAAAAAAAAA");
         System.out.println("AAAAAAAAAAAAAAAAA");
+
+        System.out.println("BBBBBBBBBBBBBB");
+        System.out.println("BBBBBBBBBBBBBB");
+        System.out.println("BBBBBBBBBBBBBB");
     }
 }
